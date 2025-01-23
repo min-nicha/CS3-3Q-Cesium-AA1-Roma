@@ -10,7 +10,7 @@ let volume = (4/3) * (PI * (radius ** 3));
 
 document.write('The radius of the sphere is ' + radius + '.');
 document.write('<br>');
-document.write('The circumference is ' + circumference) + '.';
+document.write('The circumference is ' + circumference + '.');
 document.write('<br>');
 document.write('The surface area is ' + surfaceArea + '.');
 document.write('<br>');
